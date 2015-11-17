@@ -1,1 +1,1 @@
-# extra-child-theme-init
+# Extra Child Theme Template
